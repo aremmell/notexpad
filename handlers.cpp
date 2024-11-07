@@ -1145,5 +1145,5 @@ void OnAboutLink( void *pVoid )
 	// OnAboutLink
 	// Executed when user clicks hyperlink on About dialog
 	//
-	ShellExecute( NULL, T("open"), T("http://ryan.ript.net/notexpad/"), NULL, NULL, SW_SHOWNORMAL );
+	ShellExecute( NULL, T("open"), T("https://github.com/aremmell/notexpad"), NULL, NULL, SW_SHOWNORMAL );
 }
