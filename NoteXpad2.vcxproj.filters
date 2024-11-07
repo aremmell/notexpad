@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{24459185-4575-4ae7-912f-d778aca47669}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{46d4fd82-52a9-4076-ba0c-b9ca01b037a7}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{9059c809-cdb3-4315-8334-53341e90e434}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="files.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="findreplace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glLogoControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="handlers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hyperlink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jumpto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="layered.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NoteXpad2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="options.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recentfiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="settings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="timedate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="files.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="findreplace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glLogoControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="handlers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hyperlink.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jumpto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="layered.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="notexpad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="options.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="recentfiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="reg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="timedate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ToolbarBitmaps\copy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\copy_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\cut.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\cut_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\find.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\find_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\new.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\new_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="notexpad.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="notexpaddoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\open.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\open_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\paste.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\paste_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\print.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\print_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\save.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\save_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="saved.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\stayontop.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ToolbarBitmaps\stayontop_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="unsaved.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="NoteXpad2.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="NoteXpad.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="notexpad.raw" />
+    <None Include="texture.raw" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
