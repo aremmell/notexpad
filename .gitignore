@@ -1,4 +1,10 @@
+# VS temporary files
 *.user
 .vs
+
+# output directories
 Debug/
 Release/
+
+# macOS "hidden" files
+.DS_Store
